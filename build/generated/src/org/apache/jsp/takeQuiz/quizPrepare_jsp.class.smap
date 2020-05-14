@@ -1,0 +1,20 @@
+SMAP
+quizPrepare_jsp.java
+JSP
+*S JSP
+*F
++ 0 quizPrepare.jsp
+takeQuiz/quizPrepare.jsp
++ 1 header.jsp
+header.jsp
+*L
+1,14:50
+1#1,10:64
+11,2:75
+12,12:77
+24:89,3
+25:92
+26:93,3
+27,8:96
+14#0,17:103
+*E
